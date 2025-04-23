@@ -1,2 +1,6 @@
 # tweakphp-bin-arch
-Install TweakPHP AppImage on Arch Linux.
+
+Clone and install with `makepkg -si`.
+
+I am not affiliated with TweakPHP, I just like the app.
+
